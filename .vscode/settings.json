@@ -1,0 +1,10 @@
+{
+	"java.project.sourcePaths": [
+		"HTTP",
+		"InetAddress",
+		"Multithreaded",
+		"Serialization",
+		"TCP",
+		"UDP"
+	]
+}
